@@ -29,6 +29,9 @@ I'm currently a Computer Science student / Full Stack Web Developer seeking to o
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
