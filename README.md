@@ -28,17 +28,5 @@ I'm currently a Computer Science student / Full Stack Web Developer seeking to o
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SaboyaDev.SaboyaDev)
 
 
-<!-- #### Coding Stats -->
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 #### Github Stats
 ![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&)
-
-<!-- ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=ipenywis&count_private=true&theme=tokyonight&hide=contribs,prs) -->
-
-</details>
