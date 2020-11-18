@@ -30,11 +30,11 @@ I'm currently a Computer Science student / Full Stack Web Developer seeking to o
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-SCSS       4 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   32.66 % 
-HTML       3 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.18 % 
-Markdown   1 hr 52 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-CSS        1 hr 43 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Bash       58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+SCSS       4 hrs 21 mins   ████████░░░░░░░░░░░░░░░░░   31.58 % 
+HTML       3 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.32 % 
+Markdown   1 hr 52 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+CSS        1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Bash       1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
 ```
 <!--END_SECTION:waka-->
 
