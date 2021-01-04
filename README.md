@@ -19,7 +19,7 @@ I'm currently a Computer Science student / Full Stack Web Developer seeking to o
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![MySql Badge](https://img.shields.io/badge/-MySql-5A839C?style=for-the-badge&labelColor=black&logo=mysql&logoColor=fff)](#)
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://saboya-dev-github.s3.amazonaws.com/Jose+L+Saboya+CV+HQ+purple.pdf)
+- :paperclip: [My Resume/CV](https://personal-portfolio-2020.s3.amazonaws.com/MyResume.pdf)
 - :email: SaboyaDev@gmail.com
 
 
