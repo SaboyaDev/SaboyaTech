@@ -1,5 +1,8 @@
 ## Hi I'm Jose L Saboya --> (Saboya_Dev) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+#### Github Stats
+![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&)
+
 I'm currently a Computer Science student / Full Stack Web Developer seeking to obtain a challenging opportunity where my web development skills, adaptability, and academic background can be applied to add value to an organization.
 
 :mailbox: Reach me out!
@@ -26,13 +29,3 @@ I'm currently a Computer Science student / Full Stack Web Developer seeking to o
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SaboyaDev.SaboyaDev)
-
-#### Coding Stats
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-#### Github Stats
-![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&)
