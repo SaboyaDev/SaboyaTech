@@ -3,7 +3,7 @@
 #### Github Stats
 ![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&)
 
-I'm currently a Computer Science student / Full Stack Web Developer seeking to obtain a challenging opportunity where my web development skills, adaptability, and academic background can be applied to add value to an organization.
+Front-End Web Developer seeking to obtain challenging opportunities where my web development skills, adaptability, and academic background can be applied to add value to an organization. Currently Working on Shopify development
 
 :mailbox: Reach me out!
 
