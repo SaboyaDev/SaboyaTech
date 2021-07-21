@@ -9,11 +9,9 @@ I'm currently a Computer Science student / Full Stack Web Developer seeking to o
 
 [![Twitter Badge](https://img.shields.io/badge/-@saboya_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saboya_dev)](https://twitter.com/saboya_dev) [![Linkedin Badge](https://img.shields.io/badge/-joseluissaboya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijoseluissaboya/) [![Mail Badge](https://img.shields.io/badge/-@saboya_dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/saboya_dev) [![Mail Badge](https://img.shields.io/badge/-saboyadev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saboyadev@gmail.com)
 
-- 🚑 I work as an EMT during the day
-- 💻 At night I'm a Developer
-- 🤔 Actively looking for my break into the Tech Industry.
+- 💻 Front-End Developer / Shopify Expert
 - 📫 How to reach me: SaboyaDev@gmail.com.
-- ⚡ Fun facts: I love Robotics, Big Nikola Tesla fan, .
+- ⚡ Fun facts: I love Robotics, Big Nikola Tesla fan.
 
 #### Top Technologies
 
