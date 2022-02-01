@@ -3,7 +3,7 @@
 #### Github Stats
 ![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&)
 
-Front-End web developer with experience in React and currently working on my Associate’s Degree in Computer Science. Graduated from Rutgers University 6 month Coding Bootcamp, where I gained my certification in Web Development and honed my skills in JavaScript, React.js, SQL and No-SQL Databases, and Back-End technologies such as Node.js.
+Software Engineer - Frontend with experience in React and currently working on my Associate’s Degree in Computer Science. Graduated from Rutgers University 6 month Coding Bootcamp, where I gained my certification in Web Development and honed my skills in JavaScript, React.js, SQL and No-SQL Databases, and Back-End technologies such as Node.js.
 
 :mailbox: Reach me out!
 
