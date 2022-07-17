@@ -7,13 +7,13 @@
 #### Github Stats
 ![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&)
 
-Front-end Web Developer with experience in React and currently working as an EMT (Emergency Medical Tech) and freelance Web Development. Graduated from Rutgers University 6 month Coding Bootcamp, where I gained my certification in Web Development and honed my skills in JavaScript, React.js, SQL and No-SQL Databases, and Back-End technologies such as Node.js.
+Front-end Developer with experience in React and currently working as an EMT (Emergency Medical Tech) and freelance Web Development. Graduated from Rutgers University 6 month Coding Bootcamp, where I gained my certification in Web Development and honed my skills in JavaScript, React.js, SQL and No-SQL Databases, and Back-End technologies such as Node.js.
 
 :mailbox: Reach Out To Me!
 
 [![Twitter Badge](https://img.shields.io/badge/-@saboya_dev-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/saboya_dev)](https://twitter.com/saboya_dev) [![Linkedin Badge](https://img.shields.io/badge/-joseluissaboya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ijoseluissaboya/) [![Mail Badge](https://img.shields.io/badge/-@saboya_dev-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/saboya_dev) [![Mail Badge](https://img.shields.io/badge/-saboyadev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:saboyadev@gmail.com)
 
-- 💻 Front-end Web Developer
+- 💻 Front-end Developer
 - 📫 How to reach me: SaboyaDev@gmail.com.
 - ⚡ Fun facts: I'm a musician, and I'm a Big Nikola Tesla fan.
 
