@@ -7,7 +7,7 @@
 #### Github Stats
 ![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&)
 
-Front-end Developer with experience in React and currently working as an EMT (Emergency Medical Tech) and freelance Web Development. Graduated from Rutgers University 6 month Coding Bootcamp, where I gained my certification in Web Development and honed my skills in JavaScript, React.js, SQL and No-SQL Databases, and Back-End technologies such as Node.js.
+Front-end Developer with experience in React and WordPress. Currently working as an EMT (Emergency Medical Tech) and a front-end web developer freelancer. Graduated from Rutgers University 6 month Coding Bootcamp, where I gained my certification in web development and honed my skills in JavaScript, React.js, SQL and No-SQL Databases, and Back-End technologies such as Node.js.
 
 :mailbox: Reach Out To Me!
 
