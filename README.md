@@ -13,7 +13,7 @@ Front End Developer with experience in React. Attended Rutgers University Coding
 
 - 💻 Front End Developer
 - 📫 How to reach me for my resune: SaboyaDev@gmail.com.
-- ⚡ Fun facts: I'm a musician, and I'm a Big Nikola Tesla fan.
+- ⚡ Fun facts: I'm also an EMT, and I'm a Big Nikola Tesla fan.
 
 #### Top Technologies
 
