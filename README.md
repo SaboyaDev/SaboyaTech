@@ -53,4 +53,4 @@
 
 ### Links 🔗
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluissaboya/) [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saboya_dev) [![gmail](https://img.shields.io/badge/gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saboyadev@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluissaboya/) [![gmail](https://img.shields.io/badge/gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saboyadev@gmail.com)
