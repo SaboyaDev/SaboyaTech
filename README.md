@@ -1,26 +1,18 @@
 <p align="center">
-  <img width="800" src="https://user-images.githubusercontent.com/16430662/235325831-a33c4fd2-2498-4536-95cd-0516be2dba12.jpeg" />
-</p>
+  <img width="800" src="https://github.com/SaboyaDev/SaboyaDev/assets/16430662/701d2340-d579-4e14-a4ff-777b55c762a0" />
 
-<h2 align="center">
-  Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-  I'm Jose Saboya
-</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=30&duration=2000&color=FFBF3E&background=000000&center=true&vCenter=true&width=600&height=90&lines=Software+Support+Engineer;IT+Professional" alt="Typing SVG">
 </p>
 
 <br />
 
-- 📚 Information Technology – B.S. @Western Governors University Fall 23 - Fall 24
-- 🌱 Working on becoming better everyday
+## About Me 👨🏻‍💻
+
+- 😄 I am a skilled coder with a deep passion for programming and a keen eye for creating captivating UI/UX experiences.
+- 👨‍👩‍👦 Husband and father of a beautiful boy Nikolas.
+- ⚡ Fun facts: I'm also an EMT and a big fan of Nikola Tesla!
 - 📫 SaboyaDev@gmail.com
-- ⚡ Fun facts: I'm crazy about the Cloud, and I'm also an EMT. In addition, I'm a big fan of Nikola Tesla!
 
-<br />
-
-### Tools 👨🏻‍💻🛠
+## Tools 🛠️
 
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
