@@ -10,7 +10,8 @@
 - 😄 I am a skilled coder with a deep passion for programming and a keen eye for creating captivating UI/UX experiences.
 - 👨‍👩‍👦 Husband and father of a beautiful boy Nikolas.
 - ⚡ Fun facts: I'm also an EMT and a big fan of Nikola Tesla!
-- 📫 SaboyaDev@gmail.com
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluissaboya/) [![gmail](https://img.shields.io/badge/gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saboyadev@gmail.com)
 
 ## Tools 🛠️
 
@@ -27,13 +28,13 @@
 <br />
 <br />
 
-<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /><img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="Node.js" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:5px;" /><img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /><img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="TypeScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" /><img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;"/><img align="left" alt="Node.js" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="padding-right:5px;" />
 
 <br />
 <br />
 <br />
 
-<img align="left" alt="SQL" width="60px" src="https://user-images.githubusercontent.com/16430662/232581284-371a2b89-7179-42a6-8034-a8e931b15c86.png" style="padding-right:10px;" /><img align="left" alt="PostgreSQL" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="MongoDB" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="MongoDB" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -56,19 +57,9 @@
   - [Deploying Containerized Flask and React Microservices On EC2](https://github.com/SaboyaDev/flask-react-aws-ec2)
 - <b>Solo Project Final Exam For Rutgers Coding Bootcamp</b>
   - [Instructor Portal App](https://github.com/SaboyaDev/instructorportal-python)
-
-## 💻 Information Technology Projects:
-
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaDev/azure-network-protocols)
-  - [Configuring (On-premises) Active Directory Within Azure](https://github.com/SaboyaDev/configure-active-directory)
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SaboyaDev/osticket-prerequisites)
-  - [osTicket: Post-Installation Configuration](https://github.com/SaboyaDev/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaDev/ticket-lifecycle)
 -->
-
 ![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&)
 <br />
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluissaboya/) [![gmail](https://img.shields.io/badge/gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saboyadev@gmail.com)
+<!-- ## Wakatime (Just started using it...)
+<img src="https://wakatime.com/share/@2f8ec086-c012-41fa-98f0-798977c81386/b5b868da-76aa-4572-adf4-599d2119f84a.png" alt="Wakatime Graph" width="50%"/>
+-->
