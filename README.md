@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="800" src="https://github.com/SaboyaDev/SaboyaDev/assets/16430662/701d2340-d579-4e14-a4ff-777b55c762a0" />
-
+  <img width="800" src="https://github.com/SaboyaDev/SaboyaDev/assets/16430662/c4a17f17-72fc-4b30-8180-31d57474b2c7" />
 </p>
 
 <br />
