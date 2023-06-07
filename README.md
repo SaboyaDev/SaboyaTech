@@ -57,7 +57,9 @@
 - <b>Solo Project Final Exam For Rutgers Coding Bootcamp</b>
   - [Instructor Portal App](https://github.com/SaboyaDev/instructorportal-python)
 -->
-![SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&)
+<!--
+[SaboyaDev's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&)
+-->
 <br />
 <!-- ## Wakatime (Just started using it...)
 <img src="https://wakatime.com/share/@2f8ec086-c012-41fa-98f0-798977c81386/b5b868da-76aa-4572-adf4-599d2119f84a.png" alt="Wakatime Graph" width="50%"/>
