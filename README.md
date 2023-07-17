@@ -26,7 +26,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaTech/azure-network-protocols)
   - [Configuring (On-premises) Active Directory Within Azure](https://github.com/SaboyaTech/azure-active-directory-config)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SaboyaTech/osticket-prerequisites)
+  - [osTicket: Prerequisites and Installation](https://github.com/SaboyaTech/azure-osTicket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/ticket-lifecycle)
 
