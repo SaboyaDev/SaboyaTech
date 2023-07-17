@@ -27,8 +27,8 @@
   - [Configuring (On-premises) Active Directory Within Azure](https://github.com/SaboyaTech/azure-active-directory-config)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SaboyaTech/azure-osTicket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/azure-osTicket-post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/azure-osTicket-ticket-lifecycle)
 
 ![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&)
 
