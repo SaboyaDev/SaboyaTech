@@ -32,7 +32,13 @@
 
 ![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluissaboya/) [![gmail](https://img.shields.io/badge/gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saboyatech@gmail.com)
+<h2>🤳Connect with me:</h2>
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/joseluissaboya 
+
+<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluissaboya/) [![gmail](https://img.shields.io/badge/gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saboyatech@gmail.com) -->
 
 <!--
 ## 👨🏽‍💻 Software Projects:
