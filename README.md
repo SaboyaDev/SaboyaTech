@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" src="https://github.com/SaboyaDev/SaboyaDev/assets/16430662/e8f30f0f-541c-452a-9fd1-b73efd194270" />
+  <img width="800" src="https://media.licdn.com/dms/image/D4E16AQHGBSQhuTWI1A/profile-displaybackgroundimage-shrink_350_1400/0/1691475080605?e=1697068800&v=beta&t=ADMuWV-3pKMrhrHBH4u47Sn1_bd0lKV8LujbSvAZqX4"/>
 </p>
 
 <br />
@@ -8,14 +8,13 @@
 
 - 😄 I am incredibly passionate about the IT industry where I am able to combine my three passions for helping others, problem-solving, and technology. To provide exceptional customer support, 
   troubleshoot technical issues, and ensure a positive experience for users it's my top priority  
-- 👨‍👩‍👦 Husband and father of a beautiful boy Nikolas 
-- ⚡ Fun facts: I'm also an EMT and a big fan of Nikola Tesla!
+- 👨‍👩‍👦 Husband and father of a beautiful boy Nikolas 👶🏻 
+- ⚡ Fun facts: I'm also an Emergency Medical Technician and a big fan of Nikola Tesla!
 
 
-## Tools 🛠️
+## Tools 🛠
 
-<img align="left" alt="Azure" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" /><img align="left" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="Git" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Active Directory" width="70px" src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo-300x300.png" style="padding-right:10px;" /><img align="left" alt="Azure" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="PowerShell" width="60px" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" style="padding-right:10px;" /><img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /><img align="left" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="Git" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <br />
 <br />
 <br />
@@ -23,8 +22,8 @@
 ## 💻 Information Technology Projects:
 
 - <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SaboyaTech/azure-active-directory-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaTech/azure-network-protocols) ✅  
-  - [Configuring (On-premises) Active Directory Within Azure](https://github.com/SaboyaTech/azure-active-directory-config)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SaboyaTech/azure-osTicket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/azure-osTicket-post-install-config)
@@ -34,7 +33,7 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joseluissaboya/)][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/joseluissaboya 
 
