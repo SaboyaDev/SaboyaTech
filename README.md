@@ -6,7 +6,9 @@
 
 ## About Me 👨🏻‍💻
 
-I'm an EMT turned IT professional, blending 5+ years of customer service and technical troubleshooting with a passion for technology. Now focusing on a career in IT support, I'm actively pursuing CompTIA certifications and leveraging hands-on lab experience. My background in high-stress environments and dedication to problem-solving makes me ready for the fast-paced world of IT. If you're seeking someone committed to enhancing productivity and user satisfaction through effective tech solutions, let's connect!
+EMT now turned IT professional, excited to solve technical problems by leveraging my 5+ years of customer service and troubleshooting experience. Equipped with hands-on training through ITPro.tv, part of ACI Learning - a leading provider of IT training solutions, I am actively pursuing CompTIA A+ and Network+ certifications. With familiarity in network protocols, Active Directory, and Ticketing Systems, and a proven ability to work efficiently under stressful situations, along with a strong commitment to collaborative teamwork, I'm prepared to bring a unique blend of skills to an IT support role.
+<br />
+Let's connect!
 
 ## Tools 🛠
 
