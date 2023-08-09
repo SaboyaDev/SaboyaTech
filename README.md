@@ -7,8 +7,6 @@
 ## About Me 👨🏻‍💻
 
 EMT now turned IT professional, excited to solve technical problems by leveraging my 5+ years of customer service and troubleshooting experience. Equipped with hands-on training through ITPro.tv, part of ACI Learning - a leading provider of IT training solutions, I am actively pursuing CompTIA A+ and Network+ certifications. With familiarity in network protocols, Active Directory, and Ticketing Systems, and a proven ability to work efficiently under stressful situations, along with a strong commitment to collaborative teamwork, I'm prepared to bring a unique blend of skills to an IT support role.
-<br />
-Let's connect!
 
 ## Tools 🛠
 
