@@ -6,11 +6,7 @@
 
 ## About Me 👨🏻‍💻
 
-- 😄 I am incredibly passionate about the IT industry where I am able to combine my three passions for helping others, problem-solving, and technology. To provide exceptional customer support, 
-  troubleshoot technical issues, and ensure a positive experience for users it's my top priority  
-- 👨‍👩‍👦 Husband and father of a beautiful boy Nikolas 👶🏻 
-- ⚡ Fun facts: I'm also an Emergency Medical Technician and a big fan of Nikola Tesla!
-
+I'm an EMT turned IT professional, blending 5+ years of customer service and technical troubleshooting with a passion for technology. Now focusing on a career in IT support, I'm actively pursuing CompTIA certifications and leveraging hands-on lab experience. My background in high-stress environments and dedication to problem-solving makes me ready for the fast-paced world of IT. If you're seeking someone committed to enhancing productivity and user satisfaction through effective tech solutions, let's connect!
 
 ## Tools 🛠
 
