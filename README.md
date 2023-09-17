@@ -25,7 +25,7 @@ EMT now turned IT professional, excited to solve technical problems by leveragin
   - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/azure-osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/azure-osTicket-ticket-lifecycle)
 
-![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&)
+![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaboyaTech&layout=compact&langs_count=20)
 
 <h2>🤳Connect with me:</h2>
 
@@ -46,7 +46,3 @@ EMT now turned IT professional, excited to solve technical problems by leveragin
   - [Instructor Portal App](https://github.com/SaboyaTech/instructorportal-python)
 -->
 
-<br />
-<!-- ## Wakatime (Just started using it...)
-<img src="https://wakatime.com/share/@2f8ec086-c012-41fa-98f0-798977c81386/b5b868da-76aa-4572-adf4-599d2119f84a.png" alt="Wakatime Graph" width="50%"/>
--->
