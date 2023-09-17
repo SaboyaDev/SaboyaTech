@@ -25,7 +25,10 @@ EMT now turned IT professional, excited to solve technical problems by leveragin
   - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/azure-osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/azure-osTicket-ticket-lifecycle)
 
-![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaboyaTech&layout=compact&langs_count=20)
+![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs)
+<br />
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaboyaTech&layout=compact&langs_count=20)
 
 <h2>🤳Connect with me:</h2>
 
