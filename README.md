@@ -4,26 +4,59 @@
 
 <br />
 
-## About Me 👨🏻‍💻
+# 👨🏻‍💻 About Me
 
-EMT now turned IT professional, excited to solve technical problems by leveraging my 5+ years of customer service and troubleshooting experience. Equipped with hands-on training through ACI Learning, a leading provider of IT training solutions, I am actively pursuing CompTIA A+ and Network+ certifications. With familiarity in network protocols, Active Directory, and Ticketing Systems, and a proven ability to work efficiently under stressful situations, along with a strong commitment to collaborative teamwork, I'm prepared to bring a unique blend of skills to an IT support role.
+👋 Hi there! I'm Jose Saboya, a Software Developer I have a solid foundation in Web Development, successfully completed a 6 month Full Stack Development program at Rutgers University.
 
-## Tools 🛠
+🎓 I am currently pursuing my undergraduate degree in Computer Science and am in my second year at Bergen Community College. After completing my associate's degree, my plan is to transfer to a four-year institution to complete my Bachelor of Science in Computer Science.
 
-<img align="left" alt="Active Directory" width="70px" src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo-300x300.png" style="padding-right:10px;" /><img align="left" alt="Azure" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="PowerShell" width="60px" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" style="padding-right:10px;" /><img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /><img align="left" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="MySQL" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" /><img align="left" alt="Git" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" /><img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+🚀 My journey in the realm of software engineering is fueled by a passion for creating innovative solutions and the relentless pursuit of knowledge. I love diving into complex problems, breaking them down into manageable components, and crafting elegant solutions that make a meaningful impact.
+
+🛠️ My tech stack includes a diverse set of languages and frameworks, ranging from front-end technologies like HTML, CSS, and JavaScript, React, to back-end tools such as Node.js, Express, PHP, and SQL. I'm always excited to explore new technologies and keep up-to-date with the rapidly evolving tech landscape.
+
+🌟 With a solid foundation, a hunger for growth, and a goal to excel in the software industry, I am eager to collaborate on exciting projects and contribute to the tech community. Let's innovate and create together!
+
+## Frontend Tools:
+
+<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Redux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" style="padding-right:10px;" />
+
 <br />
 <br />
 <br />
+
+## Backend Tools:
+
+<img align="left" alt="Nodejs" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Express" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+<br />
+
+## Other Tools:
+
+<img align="left" alt="Git" width="66px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Azure" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" />
+
+<br />
+<br />
+<br />
+
+## 👨🏽‍💻 Software Projects:
 
 ## 💻 Information Technology Projects:
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SaboyaTech/azure-active-directory-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaTech/azure-network-protocols)  
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/SaboyaTech/azure-osTicket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/azure-osTicket-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/azure-osTicket-ticket-lifecycle)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols Between Azure VMs](https://github.com/SaboyaTech/azure-network-protocols)
 
 ![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs)
 <br />
