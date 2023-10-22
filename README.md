@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="800" src="https://github.com/SaboyaTech/SaboyaTech/assets/16430662/72636dff-c7bd-4f24-ab30-c1bc20bd1a43"/>
+  <img width="800" src="https://media.licdn.com/dms/image/D4E16AQEd7PAKsdd05g/profile-displaybackgroundimage-shrink_350_1400/0/1697996180978?e=1703721600&v=beta&t=aUu-FA1Pe2e6BQkYUGx2BeZOOXRfQ1XT2FhuHblPHzY"/>
+  
 </p>
 
 <br />
