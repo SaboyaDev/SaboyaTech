@@ -7,15 +7,15 @@
 
 # 👨🏻‍💻 About Me
 
-👋 Hi there! I'm Jose Saboya, a Software Developer I have a solid foundation in Web Development, successfully completed a 6 month Full Stack Development program at Rutgers University.
+👋 Hi there! I'm Jose Saboya, an EMT turned IT professional, excited to tackle technical challenges with my extensive 5+ years of experience in customer service and troubleshooting.
 
-🎓 I am currently pursuing my undergraduate degree in Computer Science and am in my second year at Bergen Community College. After completing my associate's degree, my plan is to transfer to a four-year institution to complete my Bachelor of Science in Computer Science.
+🎓 I've recently undergone hands-on training with ACI Learning, a renowned provider of IT training solutions, and I'm actively working towards obtaining CompTIA A+ and Network+ certifications. My training has equipped me with knowledge in network protocols, Active Directory, and Ticketing Systems.
 
-🚀 My journey in the realm of software engineering is fueled by a passion for creating innovative solutions and the relentless pursuit of knowledge. I love diving into complex problems, breaking them down into manageable components, and crafting elegant solutions that make a meaningful impact.
+🚀 I thrive in high-pressure environments, having demonstrated the ability to work efficiently under stressful situations. My dedication to collaborative teamwork is unwavering, making me well-prepared to bring a unique blend of skills to an IT support role.
 
-🛠️ My tech stack includes a diverse set of languages and frameworks, ranging from front-end technologies like HTML, CSS, JavaScript, React, and TypeScript, to back-end tools such as Node.js, Express, PHP, and SQL. I'm always excited to explore new technologies and keep up-to-date with the rapidly evolving tech landscape.
+🛠️ My journey in the realm of IT is fueled by a passion for solving complex technical issues and the continuous pursuit of knowledge in this ever-evolving field.
 
-🌟 With a solid foundation, a hunger for growth, and a goal to excel in the software industry, I am eager to collaborate on exciting projects and contribute to the tech community. Let's innovate and create together!
+🌟 With a solid foundation in IT, a thirst for growth, and a goal to excel in the tech industry, I'm enthusiastic about contributing my skills and expertise to help organizations thrive in the world of technology. I'm prepared to bring a unique blend of skills to an IT support role and make a meaningful impact.
 
 ## Frontend Tools:
 
