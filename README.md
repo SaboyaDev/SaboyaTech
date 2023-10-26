@@ -30,10 +30,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SaboyaTech/azure-active-directory-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaTech/azure-network-protocols)  
-- <b>osTicket (Help Desk Ticketing System)</b>
+<!-- - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SaboyaTech/azure-osTicket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/azure-osTicket-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/azure-osTicket-ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/azure-osTicket-ticket-lifecycle) -->
 
 ![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs)
 <br />
