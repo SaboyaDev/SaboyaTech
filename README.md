@@ -1,11 +1,15 @@
 <p align="center">
   <img width="800" src="https://media.licdn.com/dms/image/D4E16AQEd7PAKsdd05g/profile-displaybackgroundimage-shrink_350_1400/0/1697996180978?e=1703721600&v=beta&t=aUu-FA1Pe2e6BQkYUGx2BeZOOXRfQ1XT2FhuHblPHzY"/>
-  
 </p>
 
-<br />
+<div align="center">
 
-# 👨🏻‍💻 About Me
+  ![trophy](https://github-profile-trophy.vercel.app/?username=saboyatech&margin-w=4&column=6&title=MultiLanguage,Repositories,Experience,Commits,Issues,PullRequest&no-frame=true)
+</div>
+
+# 👨🏻‍💻 About Me [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joseluissaboya/)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/joseluissaboya
 
 👋 Hi there! I'm Jose Saboya, an EMT turned IT professional, excited to tackle technical challenges with my extensive 5+ years of experience in customer service and troubleshooting.
 
@@ -17,46 +21,24 @@
 
 🌟 With a solid foundation in IT, a thirst for growth, and a goal to excel in the tech industry, I'm enthusiastic about contributing my skills and expertise to help organizations thrive in the world of technology. I'm prepared to bring a unique blend of skills to an IT support role and make a meaningful impact.
 
-## 🛠 Tools: 
+## 🛠 Tools:
 
-<img align="left" alt="Active Directory" width="50px" src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo-300x300.png" style="padding-right:10px;" />
-<img align="left" alt="Azure" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="PowerShell" width="50px" src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PostgreSQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NGINX" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="GO" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="PHP" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />
+<p align="left"> <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer"> <img src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo-300x300.png" alt="Active Directory" width="40px" height="40px" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="40px" height="40px" /> </a> <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell" width="40px" height="40px" /> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40px" height="40px" /> </a> <a href="https://www.linuxfoundation.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40px" height="40px" /> </a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40px" height="40px" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40px" height="40px" /> </a> <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX" width="40px" height="40px" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="Git" width="40px" height="40px" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px" /> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40px" height="40px" /> </a> <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="GO" width="40px" height="40px" /> </a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="PHP" width="40px" height="40px"/> </a> </p>
 
-
-<br />
-<br />
-<br />
-
-## 💻 Information Technology Projects:
+## 💻 Projects:
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SaboyaTech/azure-active-directory-config)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaTech/azure-network-protocols)  
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaTech/azure-network-protocols)
 <!-- - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/SaboyaTech/azure-osTicket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/SaboyaTech/azure-osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SaboyaTech/azure-osTicket-ticket-lifecycle) -->
 
-![SaboyaTech's github stats](https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaboyaTech&layout=compact&langs_count=20" alt="saboyatech" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaboyaTech&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs" alt="saboyatech" /></p>
+
 <br />
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaboyaTech&layout=compact&langs_count=20)
-
-<h2>🤳Connect with me:</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joseluissaboya/)][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/joseluissaboya 
-
-<!-- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluissaboya/) [![gmail](https://img.shields.io/badge/gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saboyatech@gmail.com) -->
+<br />
