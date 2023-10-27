@@ -61,7 +61,7 @@
 
 🚀 Thriving under pressure, I efficiently handle **stressful situations** and excel in **collaborative teamwork**. My **passion** for **solving complex tech issues**, **unwavering quest for knowledge**, and **strong IT foundation** drive my **eagerness** to contribute to organizations and create a **meaningful impact** in an **IT support role**.
 
-
+<br  />
 
 <div align="center">
 
@@ -103,11 +103,16 @@
 
 <br  />
 <br  />
+<p></p>
 
-<p align="center">
-  <img style="max-width:40%" src="https://github-readme-stats.vercel.app/api?username=saboyatech&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="saboyatech" /><img style="max-width:40%" src="https://github-readme-streak-stats.herokuapp.com/?user=saboyatech&theme=tokyonight" alt="saboyatech" />
+<p>
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=saboyatech&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="saboyatech" />
 </p>
 
-<p align="center"4
-  <img src="https://media2.giphy.com/media/CC2bHlOXvHSY4j8Y42/200w.webp?cid=ecf05e47urmmj4zxz8bqxb2wzve8m7fsfimov5j33qa7f0kz&ep=v1_stickers_search&rid=200w.webp&ct=s" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saboyatech&theme=tokyonight" alt="saboyatech" />
 </p>
+
+<br  />
+<br  />
+<br  />
