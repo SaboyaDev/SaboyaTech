@@ -44,7 +44,7 @@
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="PHP" width="60px" height="60px"/>
-    </a> 
+    </a>
   </p>
 </p>
 
@@ -105,9 +105,7 @@
 <br  />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saboyatech&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="saboyatech" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saboyatech&theme=tokyonight" alt="saboyatech" />
+  <img style="max-width:60%" src="https://github-readme-stats.vercel.app/api?username=saboyatech&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="saboyatech" /><img style="max-width:60%" src="https://github-readme-streak-stats.herokuapp.com/?user=saboyatech&theme=tokyonight" alt="saboyatech" />
 </p>
 
 <p align="center">
