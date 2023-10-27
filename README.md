@@ -106,11 +106,11 @@
 <p></p>
 
 <p>
-  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=saboyatech&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="saboyatech" />
+  <img width="446px"  align="left"  src="https://github-readme-stats.vercel.app/api?username=saboyatech&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="saboyatech" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saboyatech&theme=tokyonight" alt="saboyatech" />
+  <img width="446px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saboyatech&theme=tokyonight" alt="saboyatech" />
 </p>
 
 <br  />
