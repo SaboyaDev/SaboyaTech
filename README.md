@@ -1,8 +1,11 @@
 <p align="center">
-  <img width="800" src="https://media.licdn.com/dms/image/D4E16AQEd7PAKsdd05g/profile-displaybackgroundimage-shrink_350_1400/0/1697996180978?e=1703721600&v=beta&t=aUu-FA1Pe2e6BQkYUGx2BeZOOXRfQ1XT2FhuHblPHzY"/>
+
+  <img width="800" src="https://github.com/SaboyaTech/SaboyaTech/assets/16430662/e8d343b5-8c7e-4762-90fd-978b95831499"/>
 
   <p align="center">
-    <img src="https://media2.giphy.com/media/CC2bHlOXvHSY4j8Y42/200w.webp?cid=ecf05e47urmmj4zxz8bqxb2wzve8m7fsfimov5j33qa7f0kz&ep=v1_stickers_search&rid=200w.webp&ct=s" >
+    <a href="https://www.linkedin.com/in/joseluissaboya/" target="_blank">
+      <img src="https://media2.giphy.com/media/CC2bHlOXvHSY4j8Y42/200w.webp?cid=ecf05e47urmmj4zxz8bqxb2wzve8m7fsfimov5j33qa7f0kz&ep=v1_stickers_search&rid=200w.webp&ct=s" >
+    </a>
   </p>
 
   <p align="center">
@@ -36,6 +39,9 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px" height="60px" />
     </a>
+    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60px" height="60px" />
+    </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="60px" height="60px" />
     </a>
@@ -54,12 +60,9 @@
   </a>
 </h1>
 
+🎓 Currently pursuing a **Bachelor's Degree in Computer Science**
 
-👋 Hello, I'm Jose Saboya, **IT professional** with **5+ years** of **customer service experience**, ready to tackle your technical challenges.
-
-🎓 Currently pursuing a **Computer Science degree** while undergoing hands-on training with **ACI Learning** to attain the **CompTIA A+** and **Network+ certifications**.
-
-🚀 Thriving under pressure, I efficiently handle **stressful situations** and excel in **collaborative teamwork**. My **passion** for **solving complex tech issues**, **unwavering quest for knowledge**, and **strong IT foundation** drive my **eagerness** to contribute to organizations and create a **meaningful impact** in an **IT support role**.
+🚀 I efficiently handle **stressful situations** and excel in **collaborative teamwork**. My **passion** for **solving complex tech issues**, **unwavering quest for knowledge**, and **strong IT foundations** drive my **eagerness** to contribute to organizations and create a **meaningful impact** in a **developer role**.
 
 <br  />
 
