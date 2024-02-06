@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="800" src="https://github.com/SaboyaTech/SaboyaTech/assets/16430662/e8d343b5-8c7e-4762-90fd-978b95831499"/>
+  <img width="800" src="https://github.com/SaboyaTech/SaboyaTech/assets/16430662/0e558db0-5560-4ab9-85b6-66adcc742a6b"/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/joseluissaboya/" target="_blank">
@@ -10,10 +10,10 @@
 
   <p align="center">
     <a href="https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview" target="_blank" rel="noreferrer">
-      <img src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo-300x300.png" alt="Active Directory" width="60px" height="60px" />
+      <img src="https://www.secsign.com/wp-content/uploads/2018/02/active-directory-logo-300x300.png" alt="Active Directory" width="70px" height="70px" />
     </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="60px" height="60px" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" alt="Azure" width="70px" height="70px" />
     </a>
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/gist/Xainey/d5bde7d01dcbac51ac951810e94313aa/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" alt="PowerShell" width="60px" height="60px" />
@@ -39,70 +39,33 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60px" height="60px" />
     </a>
-    <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60px" height="60px" />
-    </a>
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="60px" height="60px" />
-    </a>
-    <a href="https://go.dev/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="GO" width="60px" height="60px" />
-    </a>
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  alt="PHP" width="60px" height="60px"/>
     </a>
   </p>
 </p>
 
-<h1>👨🏻‍💻 About Me
-  <a href="https://www.linkedin.com/in/joseluissaboya/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-</h1>
-
-🎓 Currently pursuing a **Bachelor's Degree in Computer Science**
-
-🚀 I efficiently handle **stressful situations** and excel in **collaborative teamwork**. My **passion** for **solving complex tech issues**, **unwavering quest for knowledge**, and **strong IT foundations** drive my **eagerness** to contribute to organizations and create a **meaningful impact** in a **developer role**.
-
+## 👨🏻‍💻 About Me:
+<a href="https://www.linkedin.com/in/joseluissaboya/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
+</a>
+<br  />
 <br  />
 
-<div align="center">
+🎓 Currently pursuing a **Bachelor's Degree in IT**
 
-  ![trophy](https://github-profile-trophy.vercel.app/?username=saboyatech&margin-w=4&column=6&title=MultiLanguage,Repositories,Experience,Commits,Issues,PullRequest&no-frame=true)
-</div>
+🚀 I efficiently handle **stressful situations** and excel in **collaborative teamwork**. My **passion** for **solving complex tech issues**, **unwavering quest for knowledge**, and **strong IT foundations** drive my **eagerness** to contribute to organizations and create a **meaningful impact** in a **Tech Support Role**.
 
 ## 💻 Projects:
 
-<h4>
-  <a src="https://github.com/SaboyaTech/azure-network-protocols">
-    - Network Security Groups (NSGs) and Inspecting Network Protocols
-  </a>
-  <br />
-  <br />
-  <img width="70%" src="https://raw.githubusercontent.com/SaboyaTech/azure-network-protocols/main/images/ubuntu-networking-overview.png" >
-</h4>
+[- Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/SaboyaTech/azure-network-protocols)
+<img width="70%" src="https://raw.githubusercontent.com/SaboyaTech/azure-network-protocols/main/images/ubuntu-networking-overview.png" >
 
-<br  />
+[- Automating User Creation in Active Directory with PowerShell](https://github.com/SaboyaTech/AD-Scripts)  
+<img width="70%" src="https://raw.githubusercontent.com/SaboyaTech/azure-active-directory-config/main/images/Screen%20Shot%202023-08-07%20at%2011.00.22%20PM.png" >
 
-<h4>
-  <a src="https://github.com/SaboyaTech/AD-Scripts">
-    - PowerShell Script - Automate User Creation in Active Directory
-  </a>
-  <br />
-  <br />
-  <img width="70%" src="https://raw.githubusercontent.com/SaboyaTech/azure-active-directory-config/main/images/Screen%20Shot%202023-08-07%20at%2011.00.22%20PM.png" >
-</h4>
-
-<br  />
-
-<h4>
-  <a src="https://github.com/SaboyaTech/azure-active-directory-config">
-    - Configuring On-premises Active Directory within Azure VMs
-  </a>
-  <br />
-  <br />
-  <img width="70%" src="https://raw.githubusercontent.com/SaboyaTech/azure-network-protocols/main/images/network-topology.png" >
-</h4>
+[- Configuring On-premises Active Directory within Azure VMs](https://github.com/SaboyaTech/azure-active-directory-config)
+<img width="70%" src="https://raw.githubusercontent.com/SaboyaTech/azure-network-protocols/main/images/network-topology.png" >
 
 <br  />
 <br  />
