@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img width="800" src="https://github.com/SaboyaTech/SaboyaTech/assets/16430662/0e558db0-5560-4ab9-85b6-66adcc742a6b"/>
+  <img width="800" src="https://github.com/SaboyaTech/SaboyaTech/assets/16430662/18e599e3-328e-44a3-aeca-6d3ca6a799bd"/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/joseluissaboya/" target="_blank">
